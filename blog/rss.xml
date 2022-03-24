@@ -4,31 +4,31 @@
 
 <channel>
 <title>Blog</title>
-<link>https://dominio.com/javiersite/</link>
+<link>https://dominio.com/sitio/</link>
 <description>Un poco de todo</description>
 
 <item>
 <title>Post 002</title>
-<link>https://dominio.com/javiersite/blog/post_002/</link>
+<link>https://dominio.com/sitio/blog/post_002/</link>
 <description>
 <![CDATA[
 <p>
-Sumario del segundo post para el rss tipo antes del more&nbsp;<a href="https://dominio.com/javiersite/blog/post_002/">...</a>
+Sumario del segundo post para el rss tipo antes del more&nbsp;<a href="https://dominio.com/sitio/blog/post_002/">...</a>
 </p>
-<p><a href="https://dominio.com/javiersite/blog/post_002/">Leer más</a></p>
+<p><a href="https://dominio.com/sitio/blog/post_002/">Leer más</a></p>
 ]]>
 </description>
 <pubDate>Miércoles, 3 de enero de 2018 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Post 001</title>
-<link>https://dominio.com/javiersite/blog/post_001/</link>
+<link>https://dominio.com/sitio/blog/post_001/</link>
 <description>
 <![CDATA[
 <p>
-Aquí un sumario del primer post para el rss&nbsp;<a href="https://dominio.com/javiersite/blog/post_001/">...</a>
+Aquí un sumario del primer post para el rss&nbsp;<a href="https://dominio.com/sitio/blog/post_001/">...</a>
 </p>
-<p><a href="https://dominio.com/javiersite/blog/post_001/">Leer más</a></p>
+<p><a href="https://dominio.com/sitio/blog/post_001/">Leer más</a></p>
 ]]>
 </description>
 <pubDate>Lunes, 1º de enero de 2018 00:00:00 +0000</pubDate>
