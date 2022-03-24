@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>novedades</title>
+<link>https://dominio.com/javiersite/</link>
+<description>Un poco de todo</description>
+
+<item>
+<title>Lluvia</title>
+<link>https://dominio.com/javiersite/novedades/lluvia/</link>
+<description>
+<![CDATA[
+<p>
+Sumario sobre la lluvia&nbsp;<a href="https://dominio.com/javiersite/novedades/mauris-tempor/">...</a>
+</p>
+<p><a href="https://dominio.com/javiersite/novedades/lluvia/">Leer más</a></p>
+]]>
+</description>
+<pubDate>Jueges, 4 de enero de 2018 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Viento</title>
+<link>https://dominio.com/javiersite/novedades/viento/</link>
+<description>
+<![CDATA[
+<p>
+Sumario sobre el viento,&nbsp;<a href="https://dominio.com/javiersite/novedades/vivamus-purus/">...</a>
+</p>
+<p><a href="https://dominio.com/javiersite/novedades/viento/">Leer más</a></p>
+]]>
+</description>
+<pubDate>Jueves, 2 de Enero de 2018 00:00:00 +0000</pubDate>
+</item>
+
+
+</channel>
+</rss>

@@ -3,34 +3,34 @@
 
 <channel>
 <title>Blog</title>
-<link>http://localhost:8000/</link>
-<description>Grow with Technology</description>
+<link>https://dominio.com/javiersite/</link>
+<description>Un poco de todo</description>
 
 <item>
-<title>Sed Finibus</title>
-<link>http://localhost:8000/blog/sed-finibus/</link>
+<title>Post 002</title>
+<link>https://dominio.com/javiersite/blog/post_002/</link>
 <description>
 <![CDATA[
 <p>
-Sed finibus fermentum convallis. Sed consequat, lacus a pellentesque suscipit, lorem libero egestas dui, sit amet volutpat mi dolor sit amet nisl. Maecenas faucibus iaculis&nbsp;<a href="http://localhost:8000/blog/sed-finibus/">...</a>
+Sumario del segundo post para el rss tipo antes del more&nbsp;<a href="https://dominio.com/javiersite/blog/post_002/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/sed-finibus/">Read More</a></p>
+<p><a href="https://dominio.com/javiersite/blog/post_002/">Leer más</a></p>
 ]]>
 </description>
-<pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+<pubDate>Miércoles, 3 de enero de 2018 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Proin Quam</title>
-<link>http://localhost:8000/blog/proin-quam/</link>
+<title>Post 001</title>
+<link>https://dominio.com/javiersite/blog/post_001/</link>
 <description>
 <![CDATA[
 <p>
-Proin quam urna, pulvinar id ipsum ac, mattis consectetur ante. Praesent non justo lectus. Duis egestas arcu libero, quis laoreet dolor volutpat ut. Donec facilisis&nbsp;<a href="http://localhost:8000/blog/proin-quam/">...</a>
+Aquí un sumario del primer post para el rss&nbsp;<a href="https://dominio.com/javiersite/blog/post_001/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/proin-quam/">Read More</a></p>
+<p><a href="https://dominio.com/javiersite/blog/post_001/">Leer más</a></p>
 ]]>
 </description>
-<pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+<pubDate>Lunes, 1º de enero de 2018 00:00:00 +0000</pubDate>
 </item>
 
 
